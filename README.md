@@ -7,9 +7,9 @@ Esta aplicación consiste en realizar un TPV utilizando las tecnologías Spring 
 ## Participantes
 
 * José Manuel Vázquez Crespo (https://github.com/josevc93)
-* David Blanco Cañizares (https://github.com/david947)
+* David Blanco Cañizares (https://github.com/DavidBlancoSD)
 * José Álvaro Gutiérrez Romero (https://github.com/AlvaroGR92)
-* David Blanco Fuentes (https://github.com/DavidBlancoSD)
+* David Blanco Fuentes (https://github.com/david947)
 
 ## Imágenes de la aplicación
 
